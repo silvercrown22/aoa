@@ -6,3 +6,4 @@
 [Prims.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/Prims.java)
 [LCS.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/LCS.java)
 [BellmanFord.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/BellmanFord.java)
+[Nqueen.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/Nqueen.java)
