@@ -13,3 +13,4 @@
 [SumOfSubset.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/SumOfSubset.java) <br>
 [RabinKarp.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/RabinKarp.java) <br>
 [Kmp.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/Kmp.java) <br>
+[AllCode.zip](https://raw.githubusercontent.com/silvercrown22/aoa/main/AllCode.zip) <br>
