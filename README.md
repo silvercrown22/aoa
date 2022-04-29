@@ -1,0 +1,8 @@
+[Insertion.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/Insertion.java)
+[Selection.java ](https://raw.githubusercontent.com/silvercrown22/aoa/main/Selection.java)
+[MergeSort.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/MergeSort.java)
+[QuickSort.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/QuickSort.java)
+[FractionalKnapsack.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/FractionalKnapsack.java)
+[Prims.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/Prims.java)
+[LCS.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/LCS.java)
+[BellmanFord.java](https://raw.githubusercontent.com/silvercrown22/aoa/main/BellmanFord.java)
